@@ -21,4 +21,4 @@
 
 # Method 3 : Just click on the .ipynb notebook right here on GitHub and look at the analysis that was pre-run for easy viewing.
 
-Hope you have fun interviewing me as much as I did doing this challenge. See you soon :)
+Hope you have fun interviewing me because this challenge was definitely fun. See you soon :)
